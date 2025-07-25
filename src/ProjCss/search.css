@@ -1,0 +1,66 @@
+#CONS{
+    /* border:1px solid; */
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    margin-top: 30px;
+    border-radius: 20px;
+    max-width: 790px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 25px;
+}
+#OUTER{
+    margin-top: 155px;
+
+ 
+    padding: 30px;
+    
+}
+#cols2{
+    border: 1px solid;
+    padding: 40px;
+}
+input[type="text"]{
+    padding: 15px;
+    margin-bottom: 10px;
+    border-radius: 20px;
+    border: none;
+   
+    outline: none;
+    font-weight: bold;
+    transition: border-bottom 0.5s ease;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+}
+input[type="date"]{
+    padding: 18px;
+    width: 350px;
+    margin-bottom: 20px;
+    border: none;
+
+    outline: none;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    border-radius: 15px;
+}
+#lab{
+
+    padding: 5px;
+    font-size: 1.3rem;
+}
+input[type="text"]:hover{
+    border-bottom: 3px solid rgb(255, 123, 0);
+}
+
+#search{
+    width: 450px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    background-color: rgb(255, 123, 0);
+    padding: 15px;
+    font-weight: bold;
+    color: whitesmoke;
+    border: none;
+    transition: box-shadow 1s ease;
+}
+#search:hover{
+    box-shadow: 0px 0px 20px rgb(255, 123, 0);;
+}

@@ -1,0 +1,18 @@
+#books_conts{
+    border: none;
+    box-shadow: 0px 0px 20px rgba(241, 33, 196, 0.932);
+    text-align: center;
+    padding: 15px;
+    border-radius: 25px;
+    width: 250px;
+    transform: translate(450px);
+}
+#cont_books_can{
+    border:none;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    margin-top: 20px;
+    padding: 20px;
+    width: 900px;
+    border-radius: 20px;
+    margin-left: 120px;
+}

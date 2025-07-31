@@ -1,0 +1,13 @@
+#btom{
+    border: 1px solid;
+    padding: 40px;
+ 
+}
+ul{
+    padding: 8px;
+}
+li{
+    text-decoration: none;
+    color: whitesmoke   ;
+    list-style: none;
+}

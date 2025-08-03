@@ -1,0 +1,65 @@
+#books_conts{
+    border: none;
+    box-shadow: 0px 0px 20px rgba(241, 33, 196, 0.932);
+    text-align: center;
+    padding: 15px;
+    border-radius: 25px;
+    width: 250px;
+    transform: translate(450px);
+}
+#cont_books_can{
+    border:none;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    margin-top: 20px;
+    padding: 20px;
+    width: 900px;
+    border-radius: 20px;
+    margin-left: 120px;
+}
+gradient-heading {
+    background: linear-gradient(to right, #0d6efd, #6610f2);
+
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+  .booking-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 16px;
+  }
+  
+  .booking-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  }
+  
+  .gradient-header {
+    background: linear-gradient(135deg, #0d6efd, #6610f2);
+    padding: 15px 20px;
+    border-bottom: none;
+    border-radius: 16px 16px 0 0;
+  }
+  
+/* .gradient-heading {
+    background: linear-gradient(to right, #0d6efd, #6610f2);
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+  .booking-card {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    border-radius: 16px;
+  }
+  
+  .booking-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  }
+  
+  .gradient-header {
+    background: linear-gradient(135deg, #0d6efd, #6610f2);
+    padding: 15px 20px;
+    border-bottom: none;
+    border-radius: 16px 16px 0 0;
+  }
+   */

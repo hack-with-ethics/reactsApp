@@ -1,0 +1,43 @@
+#admin_booking_outerCont{
+    /* border: 1px solid black; */
+    margin-top: 155px;
+    text-align: center;
+    padding: 30px;
+ 
+}
+#admin_booking_userCont{
+    margin-left: 50px;
+    border: 1px solid;
+    padding: 32px;
+    text-align: center;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    border: none;
+
+}
+#admin_inps{
+    padding: 20px;
+    margin-left: 155px;
+    width: 450px;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+    outline: none;
+    transition: width 1s ease;
+}
+#admin_btns{
+    margin-left: 0px;
+    padding: 14px;
+    border: none;
+    border-radius: 10px;
+    background-color: #1414fa;
+    cursor: pointer;
+    color:rgb(255, 255, 255);
+    margin-top: 5px;
+}
+#admin_btns:hover{
+    opacity: 0.8;
+}
+#admin_inps:hover{
+    width: 455px;
+}
